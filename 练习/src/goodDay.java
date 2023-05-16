@@ -5,5 +5,5 @@ public class goodDay {
 		System.out.println('good day');
 		//yes indeed
 	}
-	
+	// don't know what are you doing
 }
